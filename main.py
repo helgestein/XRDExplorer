@@ -2,7 +2,7 @@ import sys
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QInputDialog, QLineEdit, QFileDialog, QErrorMessage
 from PyQt5 import QtCore, QtWidgets
-from htAxUI import Ui_MainWindow
+from main_designer import Ui_MainWindow
 # Make sure that we are using QT5
 import matplotlib
 matplotlib.use('Qt5Agg')
