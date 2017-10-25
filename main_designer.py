@@ -434,4 +434,3 @@ class Ui_MainWindow(object):
         self.actionQuit.setText(_translate("MainWindow", "About"))
         self.actionQuit_2.setText(_translate("MainWindow", "Quit"))
         self.actionPrevious_Analysis.setText(_translate("MainWindow", "Previous Analysis"))
-
